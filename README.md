@@ -8,4 +8,4 @@ Hi there! I'm a **Computer Science student** at **Debre Berhan University** with
 - 💻 **Passionate About**: Coding, learning new technologies, and contributing to open-source projects
 - 🌱 **Currently Learning**: Advanced algorithms, web development, and software design patterns
 - ⚡ **Fun Fact**: When I'm not coding, I enjoy exploring tech communities and participating in telegram groups.
-  ![alt text()
+  ![alt text]()
